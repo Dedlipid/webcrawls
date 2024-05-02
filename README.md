@@ -19,8 +19,7 @@ git clone https://github.com/your_username/best-buy-open-box-locator.git
 2.Install the required Python packages:
 
 ```bash
-
 pip install -r requirements.txt
 ```
-3. Ensure that the Firefox browser and GeckoDriver binary are located in the same file hierarchy as the project.
 
+3. Ensure that the Firefox browser and GeckoDriver binary are located in the same file hierarchy as the project.
